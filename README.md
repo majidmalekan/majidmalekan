@@ -1,7 +1,12 @@
 
-<p>Passionate full-stack developer with +5 years of experience in php and JavaScript to develop
-web-based applications and website. Currently employed as a team lead and senior backend
-developer in Pnashr company. I am able to handle multiple tasks on a daily basis and excellent
-team player who like use creative and best-practice approach to solve a problem. I have
-experienced to develop stream applications and I develop my last project with microservice
-architecture and now is released and have 12000 users that all of them are doctor.</p>
+<p>About Me
+Hello! 👋 I'm Majid Malekan, a passionate software developer from Tehran, Iran. I specialize in web development, focusing on technologies like Laravel and blockchain. I'm also deeply interested in fintech solutions, exploring how technology can transform financial services and improve user experiences.
+
+🔭 Currently working on: developing dockerize restful api with Laravel and Postgresql and Redis.
+🌱 Learning: Advanced backend development techniques and improving my skills in system design.
+👯 Looking to collaborate on: Open-source projects related to fintech, blockchain, and web development.
+💬 Ask me about: Laravel, blockchain, and fintech solutions. I'm always happy to share what I know and learn from others.
+📫 How to reach me: majidmalekan93@gmail.com or connect with me on https://www.linkedin.com/in/majid-malekan.
+⚡ Fun fact: In my spare time, I enjoy creating content for my YouTube channel and Instagram, focusing on entertainment and gaming. I'm also involved in exciting campaigns and promotions with my team at 'استیگان'.
+Feel free to check out my repositories and projects. I'm always open to feedback and new ideas!
+</p>
