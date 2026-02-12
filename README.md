@@ -6,7 +6,6 @@ Hello! 👋 I'm Majid Malekan, a passionate software developer from Tehran, Iran
 🌱 Learning: Advanced backend development techniques and improving my skills in system design.
 👯 Looking to collaborate on: Open-source projects related to fintech, blockchain, and web development.
 💬 Ask me about: Laravel, blockchain, and fintech solutions. I'm always happy to share what I know and learn from others.
-📫 How to reach me: majidmalekan93@gmail.com or connect with me on https://www.linkedin.com/in/majid-malekan.
 ⚡ Fun fact: In my spare time, I enjoy creating content for my YouTube channel and Instagram, focusing on entertainment and gaming. I'm also involved in exciting campaigns and promotions with my team at 'استیگان'.
 Feel free to check out my repositories and projects. I'm always open to feedback and new ideas!
 </p>
